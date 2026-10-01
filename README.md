@@ -202,8 +202,11 @@
                     <div class="bg-gallery-card p-4 sm:p-6 rounded-2xl border border-gallery-border/80 space-y-4">
                         
                         <!-- Hero Highlight Image (Studio Photo) -->
-                        <div class="relative aspect-[3/4] overflow-hidden rounded-xl bg-gallery-bg">
-                        <a href="Foto1.png"><img src="Foto1.png" alt="Laura Macchi Studio" class="w-full h-full object-cover object-top filter grayscale contrast-105 hover:grayscale-0 transition-all duration-700" onerror="this.src='https://placehold.co/600x800/E2DEC3/141414?text=Laura+Macchi'"></a> </div> </div>
+<div class="relative aspect-[3/4] overflow-hidden rounded-xl bg-gallery-bg">
+  <a href="images/Fot1.png">
+    <img src="images/Foto1.png" alt="Laura Macchi Studio" class="w-full h-full object-cover object-top filter grayscale contrast-105 hover:grayscale-0 transition-all duration-700" onerror="this.src='https://placehold.co/600x800/E2DEC3/141414?text=Laura+Macchi'">
+  </a>
+</div>
 
                         <!-- Fine Caption -->
                         <div class="flex items-center justify-between text-xs text-gallery-muted font-light pt-1">
