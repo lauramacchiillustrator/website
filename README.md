@@ -253,7 +253,7 @@
                 <div class="gallery-card group cursor-pointer space-y-4" data-category="branding" onclick="openLightbox('modal-1')">
                     
                     <div class="relative overflow-hidden rounded-xl bg-gallery-card aspect-[4/3] border border-gallery-border/60">
-                        <img src="../Acrilici/Cocktail/Gin tonic/gintonicend1.png" 
+                        <img src="gintonicend1.png" 
                              alt="Sapore di Mare - Spirito Gin" 
                              class="gallery-image w-full h-full object-cover transition-transform duration-700 ease-out"
                              onerror="this.src='https://placehold.co/800x600/141414/FBF9F5?text=Sapore+di+Mare'">
@@ -288,7 +288,7 @@
                 <div class="gallery-card group cursor-pointer space-y-4" data-category="pittura" onclick="openLightbox('modal-2')">
                     
                     <div class="relative overflow-hidden rounded-xl bg-gallery-card aspect-[4/3] border border-gallery-border/60">
-                        <img src="../Acrilici/Rana/occhio.jpg" 
+                        <img src="occhio.jpg" 
                              alt="Rana Naturalistica" 
                              class="gallery-image w-full h-full object-cover transition-transform duration-700 ease-out"
                              onerror="this.src='https://placehold.co/800x600/8C3B2B/FBF9F5?text=Fine+Art+Frog'">
@@ -321,7 +321,7 @@
                 <div class="gallery-card group cursor-pointer space-y-4" data-category="branding" onclick="openLightbox('modal-3')">
                     
                     <div class="relative overflow-hidden rounded-xl bg-gallery-card aspect-[4/3] border border-gallery-border/60">
-                        <img src="../Per mockup/Argan/crema viso.png" 
+                        <img src="crema viso.png" 
                              alt="Zahar Bothanics - Essenze di Argan" 
                              class="gallery-image w-full h-full object-cover transition-transform duration-700 ease-out"
                              onerror="this.src='https://placehold.co/800x600/141414/FBF9F5?text=Sapore+di+Mare'">
@@ -355,7 +355,7 @@
                 <div class="gallery-card group cursor-pointer space-y-4" data-category="pittura" onclick="openLightbox('modal-4')">
                     
                     <div class="relative overflow-hidden rounded-xl bg-gallery-card aspect-[4/3] border border-gallery-border/60">
-                        <img src="../Per mockup/Vestiario/Boho/Aethel.png" 
+                        <img src="Aethel.png" 
                              alt="Aethel" 
                              class="gallery-image w-full h-full object-cover transition-transform duration-700 ease-out"
                              onerror="this.src='https://placehold.co/800x600/8C3B2B/FBF9F5?text=Fine+Art+Frog'">
@@ -581,7 +581,7 @@
             <h3 class="text-3xl sm:text-4xl font-serif text-gallery-dark mt-1">Sapore di Mare — Spirito "Gin"</h3>
 
             <div class="my-8 rounded-xl overflow-hidden border border-gallery-border">
-                <img src="../Acrilici/Cocktail/Gin tonic/gintonicend.jpg" alt="Sapore di Mare Full" class="w-full h-auto object-cover" onerror="this.src='https://placehold.co/800x600/141414/FBF9F5?text=Sapore+di+Mare'">
+                <img src="gintonicend.jpg" alt="Sapore di Mare Full" class="w-full h-auto object-cover" onerror="this.src='https://placehold.co/800x600/141414/FBF9F5?text=Sapore+di+Mare'">
             </div>
 
             <div class="space-y-4 text-sm text-gallery-muted font-light leading-relaxed">
@@ -608,7 +608,7 @@
             <h3 class="text-3xl sm:text-4xl font-serif text-gallery-dark mt-1">Espressione Naturale — Rana dagli occhi rossi</h3>
 
             <div class="my-8 rounded-xl overflow-hidden border border-gallery-border">
-                <img src="../Acrilici/Rana/Rana1.jpg" alt="Frog Full" class="w-full h-auto object-cover" onerror="this.src='https://placehold.co/800x600/8C3B2B/FBF9F5?text=Tree+Frog'">
+                <img src="Rana1.jpg" alt="Frog Full" class="w-full h-auto object-cover" onerror="this.src='https://placehold.co/800x600/8C3B2B/FBF9F5?text=Tree+Frog'">
             </div>
 
             <div class="space-y-4 text-sm text-gallery-muted font-light leading-relaxed">
@@ -632,7 +632,7 @@
             <h3 class="text-3xl sm:text-4xl font-serif text-gallery-dark mt-1">Zahar Bothanics — Essenze di Argan </h3>
 
             <div class="my-8 rounded-xl overflow-hidden border border-gallery-border">
-                <img src="../Per mockup/Argan/pexels-44740874-12998410.jpg" alt="Essenza pura del deserto Full" class="w-full h-auto object-cover" onerror="this.src='https://placehold.co/800x600/141414/FBF9F5?text=Sapore+di+Mare'">
+                <img src="pexels-44740874-12998410.jpg" alt="Essenza pura del deserto Full" class="w-full h-auto object-cover" onerror="this.src='https://placehold.co/800x600/141414/FBF9F5?text=Sapore+di+Mare'">
             </div>
 
             <div class="space-y-4 text-sm text-gallery-muted font-light leading-relaxed">
@@ -659,7 +659,7 @@
             <h3 class="text-3xl sm:text-4xl font-serif text-gallery-dark mt-1">Aethel - Conscious Tailoring</h3>
 
             <div class="my-8 rounded-xl overflow-hidden border border-gallery-border">
-                <img src="../Per mockup/Vestiario/Boho/Aethel2.png" alt="Frog Full" class="w-full h-auto object-cover" onerror="this.src='https://placehold.co/800x600/8C3B2B/FBF9F5?text=Tree+Frog'">
+                <img src="Aethel2.png" alt="Frog Full" class="w-full h-auto object-cover" onerror="this.src='https://placehold.co/800x600/8C3B2B/FBF9F5?text=Tree+Frog'">
             </div>
 
             <div class="space-y-4 text-sm text-gallery-muted font-light leading-relaxed">
