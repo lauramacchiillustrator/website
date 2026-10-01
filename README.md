@@ -203,7 +203,7 @@
                         
                         <!-- Hero Highlight Image (Studio Photo) -->
 <div class="relative aspect-[3/4] overflow-hidden rounded-xl bg-gallery-bg">
-  <a href="images/Fot1.png">
+  <a href="images/Foto1.png">
     <img src="images/Foto1.png" alt="Laura Macchi Studio" class="w-full h-full object-cover object-top filter grayscale contrast-105 hover:grayscale-0 transition-all duration-700" onerror="this.src='https://placehold.co/600x800/E2DEC3/141414?text=Laura+Macchi'">
   </a>
 </div>
