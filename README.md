@@ -632,7 +632,7 @@
             <h3 class="text-3xl sm:text-4xl font-serif text-gallery-dark mt-1">Zahar Bothanics — Essenze di Argan </h3>
 
             <div class="my-8 rounded-xl overflow-hidden border border-gallery-border">
-                <img src="pexels-44740874-12998410.jpg" alt="Essenza pura del deserto Full" class="w-full h-auto object-cover" onerror="this.src='https://placehold.co/800x600/141414/FBF9F5?text=Sapore+di+Mare'">
+                <img src="pexels-44740874-12998410.png" alt="Essenza pura del deserto Full" class="w-full h-auto object-cover" onerror="this.src='https://placehold.co/800x600/141414/FBF9F5?text=Sapore+di+Mare'">
             </div>
 
             <div class="space-y-4 text-sm text-gallery-muted font-light leading-relaxed">
