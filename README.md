@@ -139,7 +139,7 @@
             </div>
         </div>
     </header>
-
+	
     <!-- HERO SECTION -->
     <section class="pt-36 sm:pt-44 pb-20 px-6 sm:px-10 max-w-7xl mx-auto">
         <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-16 items-center">
@@ -159,8 +159,8 @@
                 </h1>
 
                 <p class="text-base sm:text-lg text-gallery-muted font-light leading-relaxed max-w-xl">
-                  Curo identità visive, packaging ed illustrazioni realistiche dal forte impatto sensoriale. Un ponte tra maestria figurativa tradizionale e raffinato minimalismo grafico.
-              </p>
+                    Laura Macchi cura identità visive, packaging ed illustrazioni realistiche dal forte impatto sensoriale. Un ponte tra maestria figurativa tradizionale e raffinato minimalismo grafico.
+                </p>
 
                 <!-- Action Links -->
                 <div class="pt-4 flex flex-wrap items-center gap-6">
@@ -179,7 +179,7 @@
                 <div class="pt-10 editorial-border-t grid grid-cols-3 gap-6 max-w-lg">
                     <div>
                         <span class="block text-2xl font-serif text-gallery-dark">01</span>
-                        <span class="text-[11px] uppercase tracking-wider text-gallery-muted">Branding & Packaging</span>
+                        <span class="text-[11px] uppercase tracking-wider text-gallery-muted">Branding & Gin</span>
                     </div>
                     <div>
                         <span class="block text-2xl font-serif text-gallery-dark">02</span>
@@ -188,57 +188,34 @@
                     <div>
                         <span class="block text-2xl font-serif text-gallery-dark">03</span>
                         <span class="text-[11px] uppercase tracking-wider text-gallery-muted">Editorial Design</span>
-                    </div>	
-            </div>
+                    </div>
+                </div>
 
- <!-- Studio Meta Grid -->
-                <div class="pt-10 editorial-border-t grid grid-cols-3 gap-6 max-w-lg">
-                    <div>
-                        <span class="block text-2xl font-serif text-gallery-dark">01</span>
-                        <span class="text-[11px] uppercase tracking-wider text-gallery-muted">Branding & Packaging</span>
-                    </div>
-                    <div>
-                        <span class="block text-2xl font-serif text-gallery-dark">02</span>
-                        <span class="text-[11px] uppercase tracking-wider text-gallery-muted">Fine Art & Natura</span>
-                    </div>
-                    <div>
-                        <span class="block text-2xl font-serif text-gallery-dark">03</span
-                        <span class="text-[11px] uppercase tracking-wider text-gallery-muted">Editorial Design</span>
-                    </div>
             </div>
 
             <!-- Hero Right Editorial Showcase -->
             <div class="lg:col-span-5">
                 <div class="relative">
+                    
                     <!-- Decorative Vignette Card -->
                     <div class="bg-gallery-card p-4 sm:p-6 rounded-2xl border border-gallery-border/80 space-y-4">
-                   
-<!-- Hero Highlight Image (Studio Photo) -->
-
+                        
+                        <!-- Hero Highlight Image (Studio Photo) -->
                         <div class="relative aspect-[3/4] overflow-hidden rounded-xl bg-gallery-bg">
-
-                        <a href="Foto1.png"><img src="Foto1.png" alt="Laura Macchi Studio" class="w-full h-full object-cover object-top filter grayscale contrast-105 hover:grayscale-0 transition-all duration-700" onerror="this.src='https://placehold.co/600x800/E2DEC3/141414?text=Laura+Macchi'"></a> </div>
-
-</div>
+                        <a href="file:///D|/Tavole Mie/Curriculum/Foto 1.png"><img src="file:///D:/Tavole%20Mie/Curriculum/Foto%201.png"" alt="Laura Macchi Studio" class="w-full h-full object-cover object-top filter grayscale contrast-105 hover:grayscale-0 transition-all duration-700" onerror="this.src='https://placehold.co/600x800/E2DEC3/141414?text=Laura+Macchi'"></a> </div>
 
                         <!-- Fine Caption -->
-
                         <div class="flex items-center justify-between text-xs text-gallery-muted font-light pt-1">
-
                             <span class="italic font-serif text-sm text-gallery-dark">Laura Macchi nel suo Atelier</span>
-
                             <span class="uppercase tracking-widest text-[10px]">2026 Edition</span>
-
                         </div>
 
                     </div>
 
                 </div>
-
             </div>
 
         </div>
-
     </section>
 </div>
 
