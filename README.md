@@ -179,7 +179,7 @@
                 <div class="pt-10 editorial-border-t grid grid-cols-3 gap-6 max-w-lg">
                     <div>
                         <span class="block text-2xl font-serif text-gallery-dark">01</span>
-                        <span class="text-[11px] uppercase tracking-wider text-gallery-muted">Branding & Gin</span>
+                        <span class="text-[11px] uppercase tracking-wider text-gallery-muted">Branding & Packaging</span>
                     </div>
                     <div>
                         <span class="block text-2xl font-serif text-gallery-dark">02</span>
@@ -189,7 +189,6 @@
                         <span class="block text-2xl font-serif text-gallery-dark">03</span>
                         <span class="text-[11px] uppercase tracking-wider text-gallery-muted">Editorial Design</span>
                     </div>
-                </div>
 
             </div>
 
