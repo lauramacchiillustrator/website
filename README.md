@@ -725,9 +725,7 @@
   </svg>
   <span>Scarica CV</span>
                 </a>
-            </div>
-        </div>
-    </footer>
+            
 
     <script>
         // Lucide Icons
