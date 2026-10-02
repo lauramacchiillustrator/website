@@ -192,31 +192,37 @@
 					
             </div>
 
-            <!-- Hero Right Editorial Showcase -->
-            <div class="lg:col-span-5">
-                <div class="relative">
-                    
-                    <!-- Decorative Vignette Card -->
-                    <div class="bg-gallery-card p-4 sm:p-6 rounded-2xl border border-gallery-border/80 space-y-4">
-                        
-
-			<!-- Hero Highlight Image (Studio Photo) -->
-                        <div class="relative aspect-[3/4] overflow-hidden rounded-xl bg-gallery-bg">
-                        <a href="Foto1.png"><img src="Foto1.png" alt="Laura Macchi Studio" class="w-full h-full object-cover object-top filter grayscale contrast-105 hover:grayscale-0 transition-all duration-700" onerror="this.src='https://placehold.co/600x800/E2DEC3/141414?text=Laura+Macchi'"></a> </div>
-</div>
-
-                        <!-- Fine Caption -->
-                        <div class="flex items-center justify-between text-xs text-gallery-muted font-light pt-1">
-                            <span class="italic font-serif text-sm text-gallery-dark">Laura Macchi nel suo Atelier</span>
-                            <span class="uppercase tracking-widest text-[10px]">2026 Edition</span>
-                        </div>
-
-                    </div>
-
+<!-- Hero Right Editorial Showcase -->
+<div class="lg:col-span-5">
+    <div class="relative">
+        
+        <!-- Decorative Vignette Card -->
+        <div class="bg-gallery-card p-4 sm:p-6 rounded-2xl border border-gallery-border/80">
+            
+            <!-- Contenitore FLex per affiancare foto e testo di lato -->
+            <div class="flex flex-col md:flex-row gap-6 items-center">
+                
+                <!-- Foto di lato (larghezza fissata a 1/2 o 50% su schermi grandi) -->
+                <div class="w-full md:w-1/2 relative aspect-[3/4] overflow-hidden rounded-xl bg-gallery-bg flex-shrink-0">
+                    <a href="Foto1.png">
+                        <img src="Foto1.png" alt="Laura Macchi Studio" class="w-full h-full object-cover object-top filter grayscale contrast-105 hover:grayscale-0 transition-all duration-700" onerror="this.src='https://placehold.co/600x800/E2DEC3/141414?text=Laura+Macchi'">
+                    </a>
                 </div>
+
+                <!-- Testo / Didascalia a fianco della foto -->
+                <div class="w-full md:w-1/2 flex flex-col justify-between space-y-4">
+                    <div class="flex flex-col text-xs text-gallery-muted font-light space-y-2">
+                        <span class="italic font-serif text-base text-gallery-dark">Laura Macchi nel suo Atelier</span>
+                        <span class="uppercase tracking-widest text-[10px] text-gallery-muted">2026 Edition</span>
+                    </div>
+                </div>
+
             </div>
 
         </div>
+
+    </div>
+</div>
     </section>
 
     <!-- PORTFOLIO SECTION -->
