@@ -189,7 +189,6 @@
                         <span class="block text-2xl font-serif text-gallery-dark">03</span>
                         <span class="text-[11px] uppercase tracking-wider text-gallery-muted">Editorial Design</span>
                     </div>
-					<div>
 					
             </div>
 
