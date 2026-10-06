@@ -569,7 +569,7 @@
                         </button>
 
                         <div id="status-msg" class="hidden text-xs text-center font-medium text-emerald-800 pt-2">
-                            ✓ Richiesta inviata con successo. Riceverai risposta entro 24 ore.
+                            ✓ Richiesta inviata con successo. Riceverai risposta il prima possibile.
                         </div>
 
                     </form>
