@@ -159,7 +159,11 @@
                 </h1>
 
                 <p class="text-base sm:text-lg text-gallery-muted font-light leading-relaxed max-w-xl">
-                    Laura Macchi cura identità visive, packaging ed illustrazioni realistiche dal forte impatto sensoriale. Un ponte tra maestria figurativa tradizionale e raffinato minimalismo grafico.
+                    Mi presento!
+					Sono una grafica pubblicitaria e visual designer con la passione per l'arte.
+					Ho intrapreso lo studio dell'arte fin da bambina, continuando con la laurea in Conservazione dei beni culturali, in ambito storico artistico medievale e bizzantino.
+					Negli anni successivi mi sono impegnata in un corso di arte del Maestro Enrico Massa, storico disegnatore per la Sergio Bonelli Editore, che mi ha insegnato la cura del dettaglio e l'arte del racconto visivo.
+					Attraverso questo spazio condivido alcuni dei miei progetti e delle collaborazioni.
                 </p>
 
                 <!-- Action Links -->
